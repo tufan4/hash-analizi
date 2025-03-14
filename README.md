@@ -1,1 +1,1 @@
-# maclar-verisi
+# hash-analiz
